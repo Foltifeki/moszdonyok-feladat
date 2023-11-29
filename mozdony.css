@@ -1,0 +1,69 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	color: navy;
+}
+body{
+	
+}
+
+
+.box{
+	height: 100%; 
+	background-color:navy;
+	padding: 20px;
+}
+
+.box img{
+	 display: block;
+	 max-width: 100%; 
+	 margin: 10px auto;
+}
+
+.box h2{
+	color: lightblue;
+	margin: 10px 0;
+	text-align: center;
+}
+.bw{
+	margin-bottom: 30px;
+}
+.szoveg{
+	
+	padding: 20px;
+	text-align: justify;
+
+}
+
+.szoveg p{
+	font-size: 20px;
+	margin: 10px 0;
+}
+
+.also{
+	display: block;
+	padding: 5px 10px;
+	background-color: navy;
+	color: silver;
+	text-align: center;
+	font-size: 20px;
+	margin: 5px;
+}
+.forr{
+	
+	font-style: italic;
+	text-align: right;
+	
+}
+.forr a{
+	text-decoration: none;
+	font-size: 18px;
+}
+.forr a:hover{
+	color: red;
+}
+.forr span{
+	font-weight: bold;
+	font-size: 18px;
+}
